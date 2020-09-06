@@ -1,1 +1,1 @@
-# sample-vps-docker
+# sample-docker-on-nginx-proxy
